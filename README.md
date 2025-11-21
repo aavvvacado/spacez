@@ -2,6 +2,15 @@
 
 Flutter implementation of the SPACEZ coupons screen based on the **SDE Task: Frontend in Flutter from Figma** brief. The screen mirrors the progressive iteration of the internal coupons page and focuses on layout fidelity and interactivity only.
 
+
+## Screenshots
+<img width="412" height="812" alt="Screenshot 2025-11-21 140654" src="https://github.com/user-attachments/assets/515127a1-8a84-4f22-a176-4d83ead620c6" />
+<img width="357" height="772" alt="image" src="https://github.com/user-attachments/assets/35cd6d0a-d309-44fe-98ab-df335391f04d" />
+
+
+
+
+
 ## Requirements Recap
 - Reference design: [savz.live/devflutterassignment](https://savz.live/devflutterassignment) (password: `spacez.co`)
 - Flutter-only task (no backend or persistence)
@@ -29,12 +38,8 @@ The project targets Flutter 3.9+, uses `google_fonts` for typography, and keeps 
 - Menu, back, coupon actions, “Read more,” and the booking CTA are wired to callbacks to demonstrate tap handling. Replace the placeholder logic with navigation or business actions as needed.
 - No backend/data storage is included; the UI renders static sample data to focus on layout accuracy.
 
-## Screenshots
-Add your captures under `assets/images/screens/` (not tracked here) and reference them in this section, for example:
 
-```
-![Coupons Page](assets/images/screens/coupons_page.png)
-```
+
 
 ## Submission
 1. Push the code to a public GitHub repository.
